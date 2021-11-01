@@ -1,8 +1,9 @@
 # Springboot-junit-example
 
 ### Feature
+Calculator test
 - junit
-- mockito
+- mockito (interface, data injection)
 
 ## Init
 Import -> Existing Maven Projects
